@@ -1,1 +1,1 @@
-# cvs-health-project
+# student-registration-system
